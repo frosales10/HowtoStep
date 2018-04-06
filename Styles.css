@@ -1,0 +1,62 @@
+body{
+  box-sizing: border-box;
+  max-width: 100%;
+  margin: 0 auto;
+  background-image: url(http://us.battle.net/forums/static/images/backgrounds/background-overwatch-top.jpg);
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: white;
+}
+h3{
+  font-size: 50px;;
+  text-align: left;
+}
+h1{
+  font-size: 60px;
+  display: inline;
+  vertical-align: top;
+}
+p{
+  line-height: 1.5;
+}
+header{
+  border: 0px;
+  padding: 1px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+  background-color: #F5870E;
+}
+section{
+  font-family: 'Abel', sans-serif;
+  border-style: solid;
+  border-width: 0px 0px 5px 0px;
+  border-color: #F5870E;
+  color: white;
+  text-align: left;
+  float: left;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 30px;
+  width: 80%;
+}
+figure{
+  float: right;
+  max-width: 40%; anton; san-serif;
+}
+figcaption{
+  font-size: 16px;
+}
+.grand{
+  float: right;
+}
+footer{
+  margin-top: 2%;
+  padding: 2%;
+  text-align: center;
+  font-family: sans-serif;
+}
+b{
+  color: yellow;
+}
